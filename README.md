@@ -87,3 +87,7 @@ Component	                   Description
     📨 Email or system notifications on detection
 
     🧾 Export report to .txt or .csv
+
+    ### OUTPUT ### 
+
+    ![Image](https://github.com/user-attachments/assets/ef85ff83-702d-42f7-bc60-516b4aa11cf5)
